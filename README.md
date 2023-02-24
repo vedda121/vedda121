@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I'm Kunal</h1>
-<h3 align="center">I'm a passionate Software Engineer and Full Stack Developer</h3>
+<h1 align="center">Hi , I'm Vedant.</h1>
+<h3 align="center">I'm a dedicated Software Engineer and Full-Stack developer</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
