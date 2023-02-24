@@ -71,7 +71,7 @@
 ## 📊 My Github Stats
 <br/>
 
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedda121&count_private=true&theme=github_dark)
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedda121&count_private=true&theme=github_dark)
 
   
 <!--     <a href="https://github.com/vedda121/github-readme-stats"><img alt="Vedant Maheshwari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vedda121&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> -->
