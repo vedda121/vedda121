@@ -2,7 +2,7 @@
 <h3 align="center">I'm a dedicated Software Engineer and Full-Stack developer</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://i.gifer.com/QoXP.gif" width="600" height="300"/>
+  <img src="https://tenor.com/view/relax-anime-girl-gif-18520244" data-width="600" height="300"/>
 </div>
 
 
