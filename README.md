@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I'm Vedant.</h1>
-<h3 align="center">I'm a dedicated Software Engineer and Full-Stack developer</h3>
+<h1 align="center">Hi I'm Vedant!</h1>
+<h3 align="center">I'm an aspiring Software Engineer and Full-Stack developer</h3>
 
 <div align="center">
   <img src="https://media.tenor.com/mg-Ruc_ndBsAAAAC/relax-anime.gif" width="600" height="300"/>
