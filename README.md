@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Vedant!</h1>
-<h3 align="center">I'm an aspiring Software Engineer and Full-Stack developer</h3>
+<h3 align="center">I'm a Software Engineer and Full-Stack developer</h3>
 
 <div align="center">
   <img src="https://media.tenor.com/mg-Ruc_ndBsAAAAC/relax-anime.gif" width="600" height="300"/>
@@ -10,13 +10,13 @@
 
 - 💼 I currently work for UIC as a Graduate Teaching Assistant for Machine Organization.
 
-- 🌱 I’m currently learning **Assembly** and **Debugging in GDB**
+- 🌱 I’m currently learning **Next.js** and getting better at FrontEnd by trying various new things.
 
 - 🤝 I’m looking to collaborate on **any Projects**
 
 - 📫 How to reach me **vm6006@gmail.com** or my socials.
 
-- ⚡ **I love being creative.**
+- ⚡ **I'm passionate and curious**
 
 ## Programming Languages
 
